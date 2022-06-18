@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282119800783,'6281223918622'] //GANTI NOMOR KALIAN
+global.owner = ['6282119800783','6281223918622'] //GANTI NOMOR KALIAN
 global.premium = ['6282119800783','6281223918622'] //GANTI NOMOR KALIAN
 global.packname = 'MinamiBot MD' //TERSERAH GANTI APA GAK
 global.author = 'Minami MD' //TERSERAH
