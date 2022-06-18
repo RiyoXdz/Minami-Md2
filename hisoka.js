@@ -2938,12 +2938,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "Open Jasa Sewabot",
+								"title": "Open Jasa Riyo Store",
 								"rows": [
 									{
 										"title": "JASA RIYO STORE",
 										"description": "Klik Untuk Melihat Daftar Jasa Riyo Store",
-										"rowId": `${prefix}riyoshop`
+										"rowId": `${prefix}sewabot`
 									}
 								]
 							},
