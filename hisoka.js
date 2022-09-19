@@ -2993,7 +2993,7 @@ txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'mainmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Main Menu*
 │
 │⭔ ${prefix}ping
@@ -3010,7 +3010,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'islammenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Islamic Menu*
 │
 │⭔ ${prefix}iqra
@@ -3023,7 +3023,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'funmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Fun Menu*
 │
 │⭔ ${prefix}halah
@@ -3044,7 +3044,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'downloadmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Downloader Menu*
 │
 │⭔ ${prefix}tiktoknowm [url]
@@ -3061,7 +3061,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break 
 case 'searchmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Search Menu*
 │
 │⭔ ${prefix}play [query]
@@ -3082,7 +3082,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'wibumenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Wibu Menu*
 │
 │⭔ ${prefix}coffe
@@ -3141,7 +3141,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'primbonmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Primbon Menu*
 │
 │⭔ ${prefix}nomorhoki
@@ -3179,7 +3179,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'soundmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Sound Menu*
 │
 │⭔  ${prefix}sound1
@@ -3261,7 +3261,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'voicemenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Voice Changer*
 │
 │⭔ ${prefix}bass
@@ -3280,7 +3280,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'anonymousmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Anonymous Menu*
 │
 │⭔ ${prefix}anonymous
@@ -3293,7 +3293,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'databasemenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Database Menu*
 │
 │⭔ ${prefix}setcmd
@@ -3309,7 +3309,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'asupanmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Asupan Menu*
 │
 │⭔ ${prefix}asupan
@@ -3323,7 +3323,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'nsfwmenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Nsfw Menu*
 │
 │⭔ ${prefix}futanari
@@ -3353,7 +3353,7 @@ txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
 m.reply(txt)
 break
 case 'ownermenu':
-txt = `JANGAN LUPA SUBS YT : RIYO XDZ*
+txt = `*JANGAN LUPA SUBS YT : RIYO XDZ*
 ┌──⭓ *Owner Menu*
 │
 │⭔ ${prefix}chat [option]
@@ -3402,7 +3402,7 @@ txt = `
 m.reply(txt)
 break
            case 'allmenu': {
-                anu = `*SUBSCRIBE YT : RIYO XDZ*
+                anu = ` *SUBSCRIBE YT : RIYO XDZ*
                 
 ┌──⭓ *Group Menu*
 │
